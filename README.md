@@ -1,7 +1,25 @@
-<span style="font-size:32px;">👋 Hi, I'm Siddartha Reddy</span>
 
-DevOps & Cloud Automation | Kubernetes • Terraform • GitHub Actions • AWS • Linux • Azure
+👨‍💻 DevOps & Cloud Automation | Kubernetes • Terraform • GitHub Actions • AWS • Linux • Azure
 Passionate about DevOps and building expertise in CI/CD pipelines, cloud‑native infra, and observability for real‑world projects
+
+🌟 About Me
+
+I'm Siddartha Reddy, a DevOps enthusiast actively bridging the gap between development dreams and operational reality.
+My journey revolves around building self-healing infrastructure, scalable CI/CD pipelines, and driving cloud-native adoption.
+
+🚀 Current Focus
+
+☁️ Mastering cloud-native technologies on AWS & Azure
+
+🐳 Container orchestration with Kubernetes in production environments
+
+⚡ Automating everything with Terraform & Ansible
+
+📈 Implementing observability with Prometheus + Grafana stacks
+
+🛠️ Technical Stack
+🖥️ OS & Networking
+Linux
 
 
 :cloud: Cloud Platforms 
