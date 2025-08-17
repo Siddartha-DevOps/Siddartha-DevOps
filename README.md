@@ -1,13 +1,16 @@
+<h1 align="left">👨‍💻 Aspiring DevOps Engineer & Cloud Automation?</h1>
 
-👨‍💻 DevOps & Cloud Automation | Kubernetes • Terraform • GitHub Actions • AWS • Linux • Azure
-Passionate about DevOps and building expertise in CI/CD pipelines, cloud‑native infra, and observability for real‑world projects
+#
 
-🌟 About Me
+<p align="left">https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&width=650&lines=👨‍💻+Aspiring+DevOps+Engineer;☁️+Cloud+%26+Automation;⚡+CI%2FCD+%7C+Kubernetes+%7C+Terraform+%7C+AWS</p>
 
-I'm Siddartha Reddy, a DevOps enthusiast actively bridging the gap between development dreams and operational reality.
-My journey revolves around building self-healing infrastructure, scalable CI/CD pipelines, and driving cloud-native adoption.
+##
 
-🚀 Current Focus
+<h2 align="left"> 🌟About me</h2>
+
+###
+
+<p align="left"> 🔭 Current Focus
 
 ☁️ Mastering cloud-native technologies on AWS & Azure
 
@@ -15,12 +18,34 @@ My journey revolves around building self-healing infrastructure, scalable CI/CD 
 
 ⚡ Automating everything with Terraform & Ansible
 
-📈 Implementing observability with Prometheus + Grafana stacks
+📈 Implementing observability with Prometheus + Grafana stacks</p>
 
-🛠️ Technical Stack
+###
+
+<h2 align="left">🛠️ Tech Stack</h2>
 🖥️ OS & Networking
-Linux
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
 
 :cloud: Cloud Platforms 
 
